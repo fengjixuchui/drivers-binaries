@@ -29,6 +29,8 @@ Included
 * sandra.sys
   * https://securelist.com/unraveling-the-lamberts-toolkit/77990/
   * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-1592
+* GMER.sys
+  * https://github.com/ZeroMemoryEx/Blackout/tree/master/driver
 
 Unverified
 
