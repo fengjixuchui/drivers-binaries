@@ -2,6 +2,8 @@
 
 Included
 
+* rentdrv2_x32/rentdrv2_x64
+  * https://github.com/keowu/BadRentdrv2
 * LenovoDiagnosticsDriver.sys
   * https://github.com/alfarom256/CVE-2022-3699/
 * mhyprot2.sys
