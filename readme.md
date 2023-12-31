@@ -2,6 +2,8 @@
 
 Included
 
+* rentdrv2_x32/rentdrv2_x64
+  * https://github.com/keowu/BadRentdrv2
 * LenovoDiagnosticsDriver.sys
   * https://github.com/alfarom256/CVE-2022-3699/
 * mhyprot2.sys
@@ -29,6 +31,8 @@ Included
 * sandra.sys
   * https://securelist.com/unraveling-the-lamberts-toolkit/77990/
   * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-1592
+* GMER.sys
+  * https://github.com/ZeroMemoryEx/Blackout/tree/master/driver
 
 Unverified
 
